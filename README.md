@@ -1,2 +1,2 @@
 # dirbspray
-Got tired of inputting the long gobuster, dirb command. So I wrote a simple script to automate the active recon process with some custom spray features for more discovery. Any improvements are welcome btw!
+Didnt have a linux system & some tools when I was away from home, so I wrote a short dirbusting script to do some recon
