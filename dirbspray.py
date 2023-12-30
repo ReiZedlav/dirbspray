@@ -66,7 +66,7 @@ def main():
     URL = "https://www.tiktok.com"  # Set target
     recon = Recon(URL)
 
-    spray = [
+    spray = [ #These are all stored in a local folder. If this doesnt work for you, Use the format C://path/path or D://path/path to insert a file. 
         r"big2.txt",
         r"big.txt",
         r"common.txt",
