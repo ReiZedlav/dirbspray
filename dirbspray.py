@@ -63,7 +63,7 @@ class Recon:
             executor.map(self.process_file, files, [chunk_size] * len(files))
 
 def main():
-    URL = "https://www.xtorjack.com"  # Set target
+    URL = "https://www.tiktok.com"  # Set target
     recon = Recon(URL)
 
     spray = [
